@@ -6,7 +6,7 @@
 #define DHTTYPE DHT22
 
 const char* ssid     = "C3P0";
-const char* password = "28071976";
+const char* password = "MayThe4BeWithU";
 
 WiFiServer server(80);
 
