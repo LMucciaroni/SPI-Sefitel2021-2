@@ -1,0 +1,3 @@
+Código feito para ESP32
+No projeto original é utilizado um DHT22 e um MQ-2 para a detecção de temperatura, humidade e fumaça no ar
+No momento atual do código ainda não foi implementado o MQ-2 nem a comunucação via LORA
